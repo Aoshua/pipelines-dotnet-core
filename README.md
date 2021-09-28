@@ -1,3 +1,4 @@
+[![Build Status](https://novotx.visualstudio.com/NX-Support/_apis/build/status/Aoshua.pipelines-dotnet-core?branchName=master)](https://novotx.visualstudio.com/NX-Support/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
