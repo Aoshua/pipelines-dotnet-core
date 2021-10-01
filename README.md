@@ -1,4 +1,4 @@
-[![Build Status](https://novotx.visualstudio.com/NX-Support/_apis/build/status/Aoshua.pipelines-dotnet-core?branchName=master)](https://novotx.visualstudio.com/NX-Support/_build/latest?definitionId=2&branchName=master)
+[![Build Status](https://dev.azure.com/JoshAzurePlayground/Playground1/_apis/build/status/Aoshua.TestingAspNetZero%20-%20Build%20%26%20Test?branchName=main)](https://dev.azure.com/JoshAzurePlayground/Playground1/_build/latest?definitionId=3&branchName=main)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
